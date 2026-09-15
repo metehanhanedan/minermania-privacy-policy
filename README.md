@@ -11,7 +11,11 @@ You can view the privacy policy here:
 
 MinerMania is a mining tycoon game for Android, developed using Unity.
 
-The game does not collect personal data, shows no ads and uses no analytics or third-party services. Game progress is saved only on the device.
+The game uses third-party services such as:
+
+* Unity Ads
+* Unity IAP (Google Play Billing)
+* Google Play Services
 
 ## 📬 Contact
 
